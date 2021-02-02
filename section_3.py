@@ -16,9 +16,8 @@ Data Structures:
 - set => sets => unordered collection of unique objects: {"a", "b"}
 - bool => boolean => logical value: True / False
 
-"""
 
-"""
+
 This section covers Numerical Operators in Python.
 
 Basic Arithmetic Operators:
@@ -43,9 +42,8 @@ eg.
 
 7 % 4 = 3
 
-"""
 
-"""
+
 This section covers Variable Assignments.
 
 In Python variable naming follows a few rules:
