@@ -17,3 +17,30 @@ Data Structures:
 - bool => boolean => logical value: True / False
 
 """
+
+"""
+This section cover Numerical Operators in Python.
+
+Basic Arithmetic Operators:
+
++ => Addition
+- => Subtraction
+/ => Division
+* => Multiplication
+
+Exponential Operator:
+
+2 to the power of 3 === 2 ** 3 = 8
+
+Modulo/Mod Operator:
+
+This operator returns the remainder of a division operation.
+
+eg.
+
+7 / 4 = 1.75
+4 goes into 7 once with remainder of 3.
+
+7 % 4 = 3
+
+"""
