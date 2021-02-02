@@ -66,4 +66,11 @@ my_dogs = ["Stake", "Bones"]
 
 This code will compile and run in Python, but in a different language such as C++ it will throw an error.
 
+Pros:
+    Very easy to work with.
+    Faster development time.
+Cons:
+    May result in bugs for unexpected data types.
+    You need to be aware of type().
+
 """
