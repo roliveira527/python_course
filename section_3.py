@@ -19,7 +19,7 @@ Data Structures:
 """
 
 """
-This section cover Numerical Operators in Python.
+This section covers Numerical Operators in Python.
 
 Basic Arithmetic Operators:
 
@@ -42,5 +42,28 @@ eg.
 4 goes into 7 once with remainder of 3.
 
 7 % 4 = 3
+
+"""
+
+"""
+This section covers Variable Assignments.
+
+In Python variable naming follows a few rules:
+    Names cannot start with a number.
+    There can be no spaces in the name, we instead must use '_'.
+    We cannot use any of the following symbols: :'",<>/?|\()!@#$%^&*~-+
+    
+Best practise under the PEP8 convention says variables should be typed in lowercase.
+It's also recommended to avoid using key words in Python such as "list" or "str".
+
+Python is a dynamically typed language, which means that you can reassign variables to different data types.
+This makes Python very flexible and stand out from other languages that are statically typed.
+
+eg.
+
+my_dogs = 2
+my_dogs = ["Stake", "Bones"]
+
+This code will compile and run in Python, but in a different language such as C++ it will throw an error.
 
 """
